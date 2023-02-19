@@ -137,7 +137,7 @@ Beyond that, security should prevail over convenience but not usability. A wired
 * keep devices up-to-date
 * use long and random passwords to secure access
 * use robust encryption: use the latest security protocols (WPA2-AES, WPA 3)
-* be cautious when pairing devices with unfamiliar devices, and don't connect cheap wireless accessories that lack strong encryption or rely on out-of-date firmware [^2]
+* be cautious when pairing devices with unfamiliar devices, and don't connect cheap wireless accessories that lack strong encryption or rely on out-of-date firmware
 * use firewalls and monitor your network for unusual traffic patterns (in corporate environments, you can also leverage network segmentation and intrusion detection systems)
 * don't let your devices discoverable when not in use
 * deactivate **unnecessary** network services and protocols
