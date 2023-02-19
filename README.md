@@ -14,7 +14,7 @@ These wireless connections are pretty convenient to setup and use, but there are
 
 WiFi or "Wireless Fidelity" is a technology used to provide Internet access to multiples devices without physical cables. The router is connected to Internet through a wired connection, but the connected devices receive and transmit data through radio waves, which are electromagnetic signals with a specific frequency (e.g., 2.4 GHz vs. 5 GHz).
 
-Many electronic devices have a WiFi adapter to exchange data with the router using the right protocol ([IEEE](https://en.wikipedia.org/wiki/Institute_of_Electrical_and_Electronics_Engineers) standards). 
+Many electronic devices have a built-in WiFi adapter to exchange data with the router using the right protocol ([IEEE](https://en.wikipedia.org/wiki/Institute_of_Electrical_and_Electronics_Engineers) standards). 
 
 Although, the quality of the connection can be affected by the number of connected devices or the distance to the router. Besides, interferences happen frequently.
 
