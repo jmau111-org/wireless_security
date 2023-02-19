@@ -176,7 +176,7 @@ Many systems rely on these technologies to store sensitive data, make payments, 
 
 You can buy[^1] a [Flipper Zero](https://flipperzero.one/) and start hacking in the wild. This product is very comprehensive and costs around $200 (at the time of writing).
 
-[^1]: I should probably not say that, as the product is regularly sold-out, and their official reseller Joom "does not ship to the United States" ^^
+[^1]: I should probably not say that, as the product is sold-out at the time of writing, and Joom, the official reseller, "does not ship to the United States" ^^
 
 ## Is 4G secure?
 
