@@ -68,7 +68,8 @@ If the WiFi network relies on a weak password, attackers could crack it to gain 
 
 #### Denial-of-service (DoS)
 
-It's possible to flood a device with connection requests or data packets to crash it or deny its access. K
+It's possible to flood a device with connection requests or data packets to crash it or deny its access.
+
 There are documented techniques such as **Deauth** (sending deauthenticating packets to prevent the device from reconnecting) or **jamming** (~ generating radio frequency interferences).
 
 ### Bluetooth attacks
