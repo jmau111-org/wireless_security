@@ -195,7 +195,7 @@ An [IMSI-catcher](https://en.wikipedia.org/wiki/IMSI-catcher) is a special devic
 
 It can act as a fake cell tower to catch nearby phones. These attacks also exploit bugs in 4G modems and will likely require other vulnerabilities as prerequisites, for example, in the firmware. However, it's hardly documented, and if it's used againt you, reading this guide is not your top priority.
 
-## 7 resources for beginners and intermediates
+## Best resources for beginners and intermediates
 
 * [Hacktricks: pentesting WiFi](https://book.hacktricks.xyz/generic-methodologies-and-resources/pentesting-wifi)
 * [A brief history of Wi-Fi security protocols from "oh my, that’s bad" to WPA3](https://arstechnica.com/gadgets/2019/03/802-eleventy-who-goes-there-wpa3-wi-fi-security-and-what-came-before-it/)
