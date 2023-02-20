@@ -149,7 +149,7 @@ Beyond that, security should prevail over convenience but not usability. A wired
 
 Basically, if the device holds sensitive data (e.g., credit cards, confidential documents), then keep it in a secure location.
 
-Although, it might be problematic in real-world conditions, as people use smartphones for everything and anything, from entertainement to payments and administrative procedures.
+Although, it might be problematic in real-world conditions, as people use smartphones for everything and anything, from entertainment to payments and administrative procedures.
 
 #### Disable WPS
 
