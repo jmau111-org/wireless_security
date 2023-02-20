@@ -102,7 +102,7 @@ There are related techniques like "car whispering" where adversaries target car 
 
 #### BlueBorne hacks
 
-[These hacks](https://www.armis.com/research/blueborne/) spread over the air (airborne) and don't even require attackers to pair with the targeted device, and can work even if the device is not in discoverable mode!
+[These hacks](https://www.armis.com/research/blueborne/) spread over the air (airborne) and don't even require attackers to pair with the targeted device, and can succeed even if the device is not in discoverable mode!
 
 ## How to protect wireless connections
 
