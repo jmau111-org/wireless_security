@@ -16,7 +16,7 @@ WiFi or "Wireless Fidelity" is a technology used to provide Internet access to m
 
 Many electronic devices have a built-in WiFi adapter to exchange data with the router using the right protocol ([IEEE](https://en.wikipedia.org/wiki/Institute_of_Electrical_and_Electronics_Engineers) standards). 
 
-Although, the quality of the connection can be affected by the number of connected devices or the distance to the router. Besides, interferences happen frequently.
+Although, the quality of the connection can be affected by the number of connected devices or the distance to the router. Besides, interferences happen frequently (e.g., in high density environments).
 
 WiFi has built-in security mechanisms to avoid unauthorized access to data, but there are documented vulnerabilities and attacks.
 
