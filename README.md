@@ -141,12 +141,14 @@ Although, wired connections are not immune to attacks. **Nothing** is inherently
 
 Beyond that, security should prevail over convenience but not usability. A wired connection might be "harder" to intercept, but there are other ways.
 
-### 7 effective mitigations
+### 9 effective mitigations
 
-* keep devices up-to-date
+* keep devices and apps up-to-date
 * use long and random passwords to secure access
 * use robust encryption: use the latest security protocols (WPA2-AES, WPA 3)
-* be cautious when pairing devices with unfamiliar devices, and don't connect cheap wireless accessories that lack strong encryption or rely on out-of-date firmware
+* be cautious when pairing devices with unfamiliar devices
+* read the specs carefully before buying cheap accessories or devices, and ensure they are built with the latest standards, especially for Bluetooth
+* check the firmware against known CVEs for your model
 * use firewalls and monitor your network for unusual traffic patterns (in corporate environments, you can also leverage network segmentation and intrusion detection systems)
 * don't let your devices discoverable when not in use
 * deactivate **unnecessary** network services and protocols
