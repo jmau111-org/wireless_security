@@ -169,11 +169,11 @@ The WiFi Protected Setup can allow an attacker to access to the wireless network
 
 Otherwise, anyone who has physical access to the router can get on the network.
 
-#### Rate limits
+#### Set rate limits
 
 Some routers allow to prioritize specific traffic (e.g., WMM) and allocate bandwidth to a restricted list of devices and applications.
 
-#### Pen-tests
+#### Pen-test your connection
 
 We won't see pen-testing in details here, as this term is quite broad, but the idea with wireless pen-testing is to test wireless networks against known attacks regularly.
 
