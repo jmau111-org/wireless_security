@@ -205,9 +205,7 @@ Smartphones use a celullar connection, such as 4G or newer versions like LTE or 
 
 The **data is encrypted**, so decoding packets is not possible, theoretically. At least, it would be insanely challenging, like cracking the most robust cryptographic algorithms.
 
-Vulnerabilities may happen at a higher level, for example, [this one in 2020](https://thehackernews.com/2020/02/lte-network-4g-vulnerability.html), but it remains pretty rare.
-
-There are other angles of attack we won't see here, as these techniques require way more advanced knowledge, which is not in the scope of this introduction guide.
+Vulnerabilities may still happen at a higher level, for example, [this one in 2020](https://thehackernews.com/2020/02/lte-network-4g-vulnerability.html), but it remains pretty rare.
 
 ## Best resources for beginners and intermediates
 
