@@ -193,15 +193,9 @@ Smartphones use a celullar connection, such as 4G or newer versions like LTE or 
 
 The **data is encrypted**, so decoding packets is not possible, theoretically. At least, it would be insanely challenging, like cracking the most robust cryptographic algorithms.
 
-Don't get me wrong. Vulnerabilities can happen at higher level, for example, [this one in 2020](https://thehackernews.com/2020/02/lte-network-4g-vulnerability.html), but it remains pretty rare.
+Vulnerabilities may happen at a higher level, for example, [this one in 2020](https://thehackernews.com/2020/02/lte-network-4g-vulnerability.html), but it remains pretty rare.
 
-There are other angles of attack we won't see here, as these techniques require pretty advanced knowledge that are not in the scope of this introduction guide.
-
-## What about IMSI-catchers?
-
-An [IMSI-catcher](https://en.wikipedia.org/wiki/IMSI-catcher) is a special device used by authorities to intercept mobile phone traffic and exfiltrate other data. You cannot buy such product as an individual, at least, legally.
-
-It can act as a fake cell tower to catch nearby phones. These attacks also exploit bugs in 4G modems and will likely require other vulnerabilities as prerequisites, for example, in the firmware. However, it's hardly documented, and if it's used againt you, reading this guide is not your top priority.
+There are other angles of attack we won't see here, as these techniques require way more advanced knowledge, which is not in the scope of this introduction guide.
 
 ## Best resources for beginners and intermediates
 
