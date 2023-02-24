@@ -80,25 +80,33 @@ Most of the time, adversaries will enumerate nearby Bluetooth devices that are *
 
 Bluetooth Hijacking consists of sending unsolicited messages to a device to annoy the victims or attack them with social engineering techniques.
 
-Although, modern devices have built-in security to block such attempts.
+Although, most modern devices have built-in security to block such attempts efficiently.
 
 #### Bluesnarfing
 
-The attackers may find vulnerable devices and gain access to steal sensitive information like contact lists, SMS, emails, and other data.
+The attackers may find vulnerable devices and gain access to steal sensitive information like contact lists, SMS, emails, and other data like the IMEI (international mobile equipment identity).
+
+In the worst-case scenario, adversaries can manage to divert incoming alls and messages to another device!
+
+#### Bluebugging
+
+Adversaries may take full control of a vulnerable device without the user's consent. They need to be quite close to the victims, but 10 meters is a relatively long distance that can correspond to various situations.
+
+These attacks usually target the firmware of older Bluetooth devices to steal data, place phone calls, or send messages.
 
 #### Denial-of-service (DoS)
 
 Pretty much like WiFi DoS attacks (the general idea), but against Bluetooth-enabled devices. A typical example is the "Bluetooth ping flood attack."
 
-#### Bluebugging
-
-Adversaries may take full control of a vulnerable device without the user's consent. They need to be quite close to the victims, but 10 meters is a relatively long distance that can correspond to various situations.
+Proximity is required too.
 
 #### Eavesdropping
 
 Attackers could intercept the communication between two vulnerable devices using a Bluetooth scanner or sniffer, allowing them to decode the Bluetooth signal and steal sensitive data.
 
 There are related techniques like "car whispering" where adversaries target car radios and eavesdrop on conversations or phone calls made inside the car.
+
+These attacks rely on legacy Bluetooth pairing or PIN to collect pairing frames and determine the corresponding secret keys.
 
 #### BlueBorne hacks
 
