@@ -40,6 +40,14 @@ You might even find that WiFi has a stronger encryption and better authenticatio
 
 People usually prefer Bluetooth to connect low-power devices, such as headphones, to their smartphones. Still, it might also be used to tether Internet access.
 
+### Bluetooth Low Energy (BLE)
+
+This technology is now pretty much everywhere, and the associated vulnerabilities affect a large range of products. There are documented attacks (e.g., on BLE-based proximity authentication), and BLE sniffing is cheap.
+
+As the name suggests, it's based on Bluetooth, but focuses low power. It's best suited for limited amounts of data, and is particularly useful for small IoT devices, like sensors or tags that do not have lots of battery power.
+
+The trick is possible because those devices remain asleep the majority of the time, and only communicate for a few seconds.
+
 ## Common attacks and vulnerabilities
 
 It's essential to list common attacks, again and again, as there are POCs (proofs of concept), open-source utilities, and even step-by-step demos in video available publicly, which lowers the barrier to entry for attackers significantly.
