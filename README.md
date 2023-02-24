@@ -155,11 +155,13 @@ Beyond that, security should prevail over convenience but not usability. A wired
 
 ### Underrated strategies
 
-#### Basic physical protection
+#### Use a safe location
 
-Basically, if the device holds sensitive data (e.g., credit cards, confidential documents), then keep it in a secure location.
+If the device holds sensitive data (e.g., credit cards, confidential documents), then keep it in a secure location.
 
 Although, it might be problematic in real-world conditions, as people use smartphones for everything and anything, from entertainment to payments and administrative procedures.
+
+To another perspective, it's essential to pair devices in a safe location, as some attacks specifically target the first connection to intercept data and forge security keys.
 
 #### Disable WPS
 
